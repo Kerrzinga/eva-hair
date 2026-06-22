@@ -1,0 +1,557 @@
+Eva Hair Homepage Content Draft
+================================
+
+Purpose
+-------
+This is a working copy document for the new homepage content.
+It is not yet applied to the HTML site.
+
+The goal is to replace the current blog-style homepage with a clear landing page that explains:
+- what Eva Hair is
+- where the salon is located
+- who the client is booking with
+- which services are available
+- how to make an appointment
+
+
+Hero Section
+------------
+Section note:
+This is the first thing visitors should understand. Keep it short, local, and appointment-focused.
+
+Heading:
+Beautiful Hair, Personal Service
+
+Text:
+Professional hairdressing, colour and special occasion styling in Gulf Harbour, Whangaparaoa.
+
+Primary button:
+Book an Appointment
+
+Secondary button:
+View Services
+
+
+Welcome Section
+---------------
+Section note:
+This replaces the abandoned blog entry with a proper introduction to the salon.
+
+Heading:
+Welcome to Eva Hair
+
+Text:
+Eva Hair is a welcoming local salon owned and operated by stylist Yulia Kornysheva. From a fresh cut or colour update to wedding hair and makeup, every appointment is focused on helping you look and feel your best.
+
+Located in Gulf Harbour, Eva Hair offers personalised styling in a relaxed salon setting, with services tailored to your hair, your style and your occasion.
+
+
+Services Overview
+-----------------
+Section note:
+This should help visitors quickly understand the main service categories and click through for more detail.
+
+Heading:
+Hair Services
+
+Service card:
+Hair Cuts & Treatments
+
+Text:
+Cuts, styling, blow waves, hair-ups and revitalising treatments for everyday confidence or a special occasion.
+
+Service card:
+Hair Colouring
+
+Text:
+Colour, root touch-ups, highlights and toning designed to complement your look and keep your hair feeling beautiful.
+
+Service card:
+Wedding Hair & Makeup
+
+Text:
+Bridal hair and makeup, bridesmaid styling and trial appointments to help you feel polished and confident on the day.
+
+Button:
+Explore Our Services
+
+
+Owner Section
+-------------
+Section note:
+This introduces Yulia without leaning too heavily on claims that may need updating, such as exact years of experience.
+
+Heading:
+Meet Yulia
+
+Text:
+Yulia Kornysheva is the owner and senior stylist at Eva Hair. With a passion for hair, colour and makeup artistry, she creates modern, wearable looks with thoughtful, personal service.
+
+Button:
+About Eva Hair
+
+
+Contact Call To Action
+----------------------
+Section note:
+This should make it easy for visitors to take the next step after reading the homepage.
+
+Heading:
+Ready for Your Next Appointment?
+
+Text:
+Visit Eva Hair in Gulf Harbour or get in touch to arrange your appointment.
+
+Details:
+10 Tiller Court, Gulf Harbour, Whangaparaoa
+021 1783 449
+info@evahair.co.nz
+
+Button:
+Contact Eva Hair
+
+
+Notes For Client Review
+-----------------------
+- Confirm whether Yulia still wants her full name used on the homepage.
+- Confirm whether the "15 years experience" claim from the old About page is still current or should be updated.
+- Confirm current prices before featuring any pricing on the homepage.
+- Confirm whether "makeup" or "make-up" is the preferred spelling across the site.
+- Confirm whether the phone number, email address and opening hours are still current.
+
+
+About Page Draft
+================
+
+Purpose
+-------
+This page should introduce Eva Hair and Yulia in a clear, warm and trustworthy way.
+
+The old About page had useful facts, but the wording was trying too hard with phrases like "innumerable types of styles" and "ingenious designs." This version keeps the professional tone while sounding more natural.
+
+
+Page Heading
+------------
+About Eva Hair
+
+
+Intro Section
+-------------
+Section note:
+This should explain what Eva Hair is without over-emphasising that it is based at Yulia's home. "Private hair salon" gives the right expectation while still sounding professional.
+
+Text:
+Eva Hair is a private hair salon in Gulf Harbour, owned and operated by senior stylist Yulia Kornysheva.
+
+
+Main About Copy
+---------------
+Section note:
+This keeps the established-in-2010 fact from the old page, but avoids mentioning manicure until the client confirms whether it is still offered.
+
+Text:
+Established in 2010, Eva Hair offers personal hairdressing, colour, styling and makeup services in a relaxed, professional salon setting.
+
+Yulia works one-to-one with each client to create a look that suits their hair, lifestyle and occasion. Whether you are booking a regular haircut, a fresh colour, a treatment, or wedding hair and makeup, the focus is on thoughtful service, beautiful results and a comfortable appointment experience.
+
+Appointments are available by arrangement. Please get in touch to book a time that suits.
+
+
+Yulia Caption
+-------------
+Yulia Kornysheva
+Senior Stylist / Owner
+
+
+Optional Extra Line
+-------------------
+Section note:
+Only include this if the client confirms the experience claim is still correct.
+
+Text:
+Yulia brings over 15 years of experience in hair, colour and makeup artistry.
+
+
+Client Review Notes
+-------------------
+- Confirm whether Yulia still wants her full name used publicly.
+- Confirm whether the salon should be described as "private hair salon", "home-based salon", or just "hair salon".
+- Confirm whether manicure is still offered before mentioning it anywhere.
+- Confirm whether the "over 15 years of experience" line is still current.
+- Confirm preferred spelling: "makeup" or "make-up".
+
+
+Services Page Draft
+===================
+
+Purpose
+-------
+This page should cover the regular salon services in one clear page.
+
+Hair Cuts & Treatments and Hair Colouring do not need to stay as separate pages unless more content is added later. Wedding Hair & Makeup should stay separate because it has stronger SEO value and a higher-value booking path.
+
+
+Page Heading
+------------
+Hair Services
+
+
+Intro Section
+-------------
+Section note:
+This should quickly explain the everyday services and appointment-based approach.
+
+Text:
+Eva Hair offers haircuts, styling, treatments and colour by appointment in Gulf Harbour. Whether you are booking a regular trim, a fresh colour, a treatment or styling for a special occasion, Yulia will work with you to create a look that suits your hair and lifestyle.
+
+
+Section Links
+-------------
+Section note:
+These can become jump links within the Services page.
+
+Links:
+Hair Cuts & Styling
+Treatments & Extensions
+Hair Colouring
+Wedding Hair & Makeup
+
+
+Hair Cuts & Styling Section
+---------------------------
+Heading:
+Hair Cuts & Styling
+
+Text:
+Book a haircut, restyle or finishing appointment tailored to your hair and the look you want.
+
+Services:
+Ladies haircut
+Men's haircut
+Children's haircut
+Style cut
+Blow dry and irons
+Waves and curls
+Hair up styling
+
+
+Treatments & Extensions Section
+-------------------------------
+Heading:
+Treatments & Extensions
+
+Text:
+Refresh your hair with a revitalising treatment, or ask about hair extensions for added length or volume.
+
+Services:
+Revitalising treatment
+Hair extensions
+
+
+Hair Colouring Section
+----------------------
+Heading:
+Hair Colouring
+
+Text:
+Colour appointments are tailored to your current hair, desired result and maintenance preferences.
+
+Services:
+Full colour
+Roots only
+Highlights
+Colour or highlights
+Tone
+
+
+Wedding Hair & Makeup Callout
+-----------------------------
+Section note:
+This should point visitors to the dedicated wedding page rather than trying to cover wedding content here.
+
+Text:
+Planning a wedding? Eva Hair offers bridal hair, wedding makeup, trial appointments and bridal party styling.
+
+Button:
+View Wedding Hair & Makeup
+
+
+Prices Section
+--------------
+Section note:
+Include prices only after the client confirms they are current. If prices are likely to change, keep the "from" wording.
+
+Hair Cuts & Styling:
+Ladies haircut - from $35
+Men's haircut - from $27
+Children's haircut - from $20
+Style cut - from $45
+Blow dry and irons - from $30
+Waves and curls - from $120
+Hair up - from $60
+
+Treatments & Extensions:
+Revitalising treatment - from $50
+Hair extensions - from $200
+
+Hair Colouring:
+Full colour - from $100
+Roots only - from $90
+Highlights - from $60
+Colour or highlights - from $150
+Tone - from $50
+
+
+Call To Action
+--------------
+Heading:
+Need help choosing the right appointment?
+
+Text:
+Get in touch with Eva Hair to book a time or ask which service is right for your hair.
+
+Button:
+Book an Appointment
+
+
+Client Review Notes
+-------------------
+- Confirm all current prices before publishing.
+- Confirm whether hair extensions are still offered.
+- Confirm whether children's cuts are still offered.
+- Confirm whether manicure should be added as a service.
+- Decide whether prices should appear publicly or be handled by enquiry.
+- Keep Wedding Hair & Makeup as a separate page for SEO.
+
+
+Contact / Appointments Page Draft
+=================================
+
+Purpose
+-------
+This page should combine the old Contact and Our Salon pages.
+
+The separate Our Salon page is not needed in the new site because it only repeats the address and points visitors back to Contact.
+
+The page should help visitors book or enquire without making the salon sound like a walk-in shopfront. Keep the wording appointment-led and simple.
+
+
+Page Heading
+------------
+Contact / Appointments
+
+
+Intro Section
+-------------
+Section note:
+This intro sets the expectation that appointments are arranged in advance without over-explaining the private salon setup.
+
+Text:
+To book an appointment or ask about a service, please contact Eva Hair by phone, email or the enquiry form below.
+
+Eva Hair is located in Gulf Harbour, Whangaparaoa. Appointments are available by arrangement, so please get in touch before coming in.
+
+
+Contact Details
+---------------
+Section note:
+These details come from the current Contact and Our Salon pages.
+
+Phone:
+021 1783 449
+
+Email:
+info@evahair.co.nz
+
+Address:
+10 Tiller Court, Gulf Harbour, Whangaparaoa 0930, New Zealand
+
+Map link:
+https://maps.google.com/?q=10+Tiller+Court,+Gulf+Harbour,+Whangaparaoa+0930,+New+Zealand
+
+
+Opening Hours
+-------------
+Section note:
+These hours come from the current Contact page. Confirm before publishing.
+
+Mon: 9am - late
+Tue: 9am - late
+Wed: 9am - late
+Thu: Closed
+Fri: 9am - 5pm
+Sat: 9am - late
+Sun: 9am - 2pm
+
+
+Enquiry Form Section
+--------------------
+Section note:
+This can be used as a temporary contact form area until the booking system is chosen. The final form will need to be connected to hosting, email, a form service or a booking platform.
+
+Heading:
+Send an Enquiry
+
+Fields:
+Name
+Email
+Phone
+Message
+
+Helper text:
+Please include the service you are interested in and any preferred appointment times.
+
+Temporary form note:
+Online enquiries will be connected once the new hosting, form or booking service is selected. For now, please call or email Eva Hair directly.
+
+Button:
+Send Enquiry
+
+
+Booking Call To Action
+----------------------
+Heading:
+Ready to Book?
+
+Text:
+Call or email Eva Hair to arrange an appointment with Yulia.
+
+Button:
+Call Eva Hair
+
+
+Client Review Notes
+-------------------
+- Confirm phone number, email address and full address.
+- Confirm current opening hours.
+- Confirm whether to use "Contact", "Appointments", or "Contact / Appointments" as the page title.
+- Decide whether to show the full address publicly or only after booking.
+- Decide whether the new site will use a contact form, booking system, or both.
+- If using a contact form, confirm where enquiries should be sent.
+- Consider embedding a Google Map once the final site platform is chosen.
+
+
+Wedding Hair & Makeup Page Draft
+================================
+
+Purpose
+-------
+This page should remain separate from the general Services page because wedding hair and makeup is likely higher value and has stronger search intent.
+
+The page should be written for people searching for wedding hair and makeup in Whangaparaoa, Gulf Harbour, Hibiscus Coast or nearby Auckland areas.
+
+
+SEO Title Idea
+--------------
+Wedding Hair & Makeup Whangaparaoa | Eva Hair
+
+
+Page Heading
+------------
+Wedding Hair & Makeup in Whangaparaoa
+
+
+Intro Section
+-------------
+Section note:
+This should quickly confirm the service, location and feeling of the appointment.
+
+Text:
+Feel confident, comfortable and beautifully styled on your wedding day with bridal hair and makeup by Eva Hair.
+
+Based in Gulf Harbour, Whangaparaoa, Eva Hair offers wedding hair and makeup for brides, bridesmaids, flower girls and guests. Appointments are personal and relaxed, with styling designed to suit your dress, hair, features and the feel of your day.
+
+
+Bridal Hair Section
+-------------------
+Section note:
+This section should help brides picture the result without locking Yulia into one particular style.
+
+Heading:
+Bridal Hair
+
+Text:
+Your bridal hairstyle should feel like you, only more polished. Whether you are planning soft waves, an elegant updo, curls, volume or a natural romantic style, Yulia will work with you to create a look that feels beautiful and secure for the day.
+
+
+Wedding Makeup Section
+----------------------
+Section note:
+This gives the makeup service its own space and explains the balance between photography and comfort.
+
+Heading:
+Wedding Makeup
+
+Text:
+Wedding makeup should photograph well while still feeling comfortable in person. Eva Hair offers bridal makeup, bridesmaid makeup and light makeup for flower girls, with a focus on a fresh, flattering finish.
+
+
+Bridal Trials Section
+---------------------
+Section note:
+This encourages trial bookings and explains why they matter.
+
+Heading:
+Bridal Trials
+
+Text:
+A trial appointment is a helpful way to plan your wedding look before the day. It gives you time to discuss ideas, test the style, and make sure your hair and makeup suit your dress, accessories and overall wedding style.
+
+
+Bridal Party Styling Section
+----------------------------
+Section note:
+This broadens the page beyond the bride and helps capture bridal party enquiries.
+
+Heading:
+Bridal Party Styling
+
+Text:
+Eva Hair can also style bridesmaids, flower girls, guests, and groom's haircuts before the wedding. If you have a bridal party, get in touch early so there is time to plan appointments and timing.
+
+
+Prices / Services Section
+-------------------------
+Section note:
+Only include these prices on the final site after the client confirms they are current. If unsure, use "from" pricing or remove prices and ask people to enquire.
+
+Wedding Hair:
+Bride's hair - from $80
+Bridesmaids' hair - from $60
+Flower girls' hair - from $40
+Guests - from $50
+Groom's haircut, ideally 3 days prior - from $30
+
+Wedding Makeup:
+Bridal makeup - from $80
+Bridesmaids' makeup - from $60
+Flower girls' light makeup - from $20
+Guests - from $50
+
+Wedding Trial:
+Bride's hair and makeup trial - from $60
+Bridesmaids and other guests - from $50
+
+
+Call To Action
+--------------
+Section note:
+This should invite enquiries without promising instant booking or availability.
+
+Heading:
+Planning Your Wedding Look?
+
+Text:
+Get in touch to discuss your wedding date, bridal party and the style you have in mind.
+
+Button:
+Enquire About Wedding Hair & Makeup
+
+
+Client Review Notes
+-------------------
+- Confirm whether she wants to spell it "makeup" or "make-up".
+- Confirm whether prices are still current.
+- Confirm whether she travels to wedding venues or appointments are salon-only.
+- Confirm how far ahead brides should book.
+- Confirm whether she wants to mention Hibiscus Coast, Auckland, or only Whangaparaoa/Gulf Harbour for SEO.

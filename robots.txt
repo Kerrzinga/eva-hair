@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://evahair.co.nz/sitemap.xml
