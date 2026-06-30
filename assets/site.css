@@ -121,6 +121,7 @@ p {
 }
 
 .topbar {
+  z-index: 2;
   border-bottom: 1px solid rgba(0, 0, 0, .09);
   background: rgba(255, 255, 255, .5);
 }
@@ -188,8 +189,7 @@ p {
   padding: 12px 20px;
   opacity: 0;
   visibility: hidden;
-  transform: translateY(5px);
-  transition: opacity 160ms ease, transform 160ms ease, visibility 160ms ease;
+  transition: opacity 160ms ease, visibility 160ms ease;
 }
 
 .dropdown li + li {
@@ -206,7 +206,6 @@ p {
 .has-dropdown:focus-within .dropdown {
   opacity: 1;
   visibility: visible;
-  transform: translateY(0);
 }
 
 .menu-toggle {
