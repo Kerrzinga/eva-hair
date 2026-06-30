@@ -161,6 +161,10 @@ p {
   position: relative;
 }
 
+.menu > li > a {
+  display: block;
+}
+
 .menu a {
   color: #1f1f1f;
   padding: 18px 0;
@@ -173,8 +177,9 @@ p {
 
 .dropdown {
   position: absolute;
+  z-index: 3;
   left: -22px;
-  top: 37px;
+  top: 100%;
   width: 245px;
   list-style: none;
   background: rgba(255, 255, 255, .98);
