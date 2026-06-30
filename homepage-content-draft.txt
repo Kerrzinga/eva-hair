@@ -41,7 +41,7 @@ Heading:
 Welcome to Eva Hair
 
 Text:
-Eva Hair is a welcoming local salon owned and operated by stylist Yulia Kornysheva. From a fresh cut or colour update to wedding hair and makeup, every appointment is focused on helping you look and feel your best.
+Eva Hair is a welcoming local salon owned and operated by stylist Yulia Kornysheva. From a fresh cut or colour update to wedding hair, every appointment is focused on helping you look and feel your best.
 
 Located in Gulf Harbour, Eva Hair offers personalised styling in a relaxed salon setting, with services tailored to your hair, your style and your occasion.
 
@@ -67,10 +67,10 @@ Text:
 Colour, root touch-ups, highlights and toning designed to complement your look and keep your hair feeling beautiful.
 
 Service card:
-Wedding Hair & Makeup
+Wedding Hair
 
 Text:
-Bridal hair and makeup, bridesmaid styling and trial appointments to help you feel polished and confident on the day.
+Bridal hair, bridesmaid styling and trial appointments to help you feel polished and confident on the day.
 
 Button:
 Explore Our Services
@@ -85,7 +85,7 @@ Heading:
 Meet Yulia
 
 Text:
-Yulia Kornysheva is the owner and senior stylist at Eva Hair. With a passion for hair, colour and makeup artistry, she creates modern, wearable looks with thoughtful, personal service.
+Yulia Kornysheva is the owner and senior stylist at Eva Hair. With a passion for hair and colour, she creates modern, wearable looks with thoughtful, personal service.
 
 Button:
 About Eva Hair
@@ -116,7 +116,6 @@ Notes For Client Review
 - Confirm whether Yulia still wants her full name used on the homepage.
 - Confirm whether the "15 years experience" claim from the old About page is still current or should be updated.
 - Confirm current prices before featuring any pricing on the homepage.
-- Confirm whether "makeup" or "make-up" is the preferred spelling across the site.
 - Confirm whether the phone number, email address and opening hours are still current.
 
 
@@ -150,9 +149,9 @@ Section note:
 This keeps the established-in-2010 fact from the old page, but avoids mentioning manicure until the client confirms whether it is still offered.
 
 Text:
-Established in 2010, Eva Hair offers personal hairdressing, colour, styling and makeup services in a relaxed, professional salon setting.
+Established in 2010, Eva Hair offers personal hairdressing, colour and styling services in a relaxed, professional salon setting.
 
-Yulia works one-to-one with each client to create a look that suits their hair, lifestyle and occasion. Whether you are booking a regular haircut, a fresh colour, a treatment, or wedding hair and makeup, the focus is on thoughtful service, beautiful results and a comfortable appointment experience.
+Yulia works one-to-one with each client to create a look that suits their hair, lifestyle and occasion. Whether you are booking a regular haircut, a fresh colour, a treatment or wedding hair, the focus is on thoughtful service, beautiful results and a comfortable appointment experience.
 
 Appointments are available by arrangement. Please get in touch to book a time that suits.
 
@@ -169,7 +168,7 @@ Section note:
 Only include this if the client confirms the experience claim is still correct.
 
 Text:
-Yulia brings over 15 years of experience in hair, colour and makeup artistry.
+Yulia brings over 15 years of experience in hairdressing and colour.
 
 
 Client Review Notes
@@ -178,7 +177,6 @@ Client Review Notes
 - Confirm whether the salon should be described as "private hair salon", "home-based salon", or just "hair salon".
 - Confirm whether manicure is still offered before mentioning it anywhere.
 - Confirm whether the "over 15 years of experience" line is still current.
-- Confirm preferred spelling: "makeup" or "make-up".
 
 
 Services Page Draft
@@ -188,7 +186,7 @@ Purpose
 -------
 This page should cover the regular salon services in one clear page.
 
-Hair Cuts & Treatments and Hair Colouring do not need to stay as separate pages unless more content is added later. Wedding Hair & Makeup should stay separate because it has stronger SEO value and a higher-value booking path.
+Hair Cuts & Treatments and Hair Colouring do not need to stay as separate pages unless more content is added later. Wedding Hair should stay separate because it has stronger SEO value and a higher-value booking path.
 
 
 Page Heading
@@ -214,7 +212,7 @@ Links:
 Hair Cuts & Styling
 Treatments & Extensions
 Hair Colouring
-Wedding Hair & Makeup
+Wedding Hair
 
 
 Hair Cuts & Styling Section
@@ -264,16 +262,16 @@ Colour or highlights
 Tone
 
 
-Wedding Hair & Makeup Callout
------------------------------
+Wedding Hair Callout
+--------------------
 Section note:
 This should point visitors to the dedicated wedding page rather than trying to cover wedding content here.
 
 Text:
-Planning a wedding? Eva Hair offers bridal hair, wedding makeup, trial appointments and bridal party styling.
+Planning a wedding? Eva Hair offers bridal hair, trial appointments and bridal party styling.
 
 Button:
-View Wedding Hair & Makeup
+View Wedding Hair
 
 
 Prices Section
@@ -321,7 +319,7 @@ Client Review Notes
 - Confirm whether children's cuts are still offered.
 - Confirm whether manicure should be added as a service.
 - Decide whether prices should appear publicly or be handled by enquiry.
-- Keep Wedding Hair & Makeup as a separate page for SEO.
+- Keep Wedding Hair as a separate page for SEO.
 
 
 Contact / Appointments Page Draft
@@ -431,24 +429,24 @@ Client Review Notes
 - Consider embedding a Google Map once the final site platform is chosen.
 
 
-Wedding Hair & Makeup Page Draft
-================================
+Wedding Hair Page Draft
+=======================
 
 Purpose
 -------
-This page should remain separate from the general Services page because wedding hair and makeup is likely higher value and has stronger search intent.
+This page should remain separate from the general Services page because wedding hair is likely higher value and has stronger search intent.
 
-The page should be written for people searching for wedding hair and makeup in Whangaparaoa, Gulf Harbour, Hibiscus Coast or nearby Auckland areas.
+The page should be written for people searching for wedding hair in Whangaparaoa, Gulf Harbour, Hibiscus Coast or nearby Auckland areas.
 
 
 SEO Title Idea
 --------------
-Wedding Hair & Makeup Whangaparaoa | Eva Hair
+Wedding Hair Whangaparaoa | Eva Hair
 
 
 Page Heading
 ------------
-Wedding Hair & Makeup in Whangaparaoa
+Wedding Hair in Whangaparaoa
 
 
 Intro Section
@@ -457,9 +455,9 @@ Section note:
 This should quickly confirm the service, location and feeling of the appointment.
 
 Text:
-Feel confident, comfortable and beautifully styled on your wedding day with bridal hair and makeup by Eva Hair.
+Feel confident, comfortable and beautifully styled on your wedding day with bridal hair by Eva Hair.
 
-Based in Gulf Harbour, Whangaparaoa, Eva Hair offers wedding hair and makeup for brides, bridesmaids, flower girls and guests. Appointments are personal and relaxed, with styling designed to suit your dress, hair, features and the feel of your day.
+Based in Gulf Harbour, Whangaparaoa, Eva Hair offers wedding hair for brides, bridesmaids, flower girls and guests. Appointments are personal and relaxed, with styling designed to suit your dress, accessories and the feel of your day.
 
 
 Bridal Hair Section
@@ -474,18 +472,6 @@ Text:
 Your bridal hairstyle should feel like you, only more polished. Whether you are planning soft waves, an elegant updo, curls, volume or a natural romantic style, Yulia will work with you to create a look that feels beautiful and secure for the day.
 
 
-Wedding Makeup Section
-----------------------
-Section note:
-This gives the makeup service its own space and explains the balance between photography and comfort.
-
-Heading:
-Wedding Makeup
-
-Text:
-Wedding makeup should photograph well while still feeling comfortable in person. Eva Hair offers bridal makeup, bridesmaid makeup and light makeup for flower girls, with a focus on a fresh, flattering finish.
-
-
 Bridal Trials Section
 ---------------------
 Section note:
@@ -495,7 +481,7 @@ Heading:
 Bridal Trials
 
 Text:
-A trial appointment is a helpful way to plan your wedding look before the day. It gives you time to discuss ideas, test the style, and make sure your hair and makeup suit your dress, accessories and overall wedding style.
+A trial appointment is a helpful way to plan your wedding hairstyle before the day. It gives you time to discuss ideas, test the style and make sure your hair complements your dress, accessories and overall wedding style.
 
 
 Bridal Party Styling Section
@@ -522,14 +508,8 @@ Flower girls' hair - from $40
 Guests - from $50
 Groom's haircut, ideally 3 days prior - from $30
 
-Wedding Makeup:
-Bridal makeup - from $80
-Bridesmaids' makeup - from $60
-Flower girls' light makeup - from $20
-Guests - from $50
-
 Wedding Trial:
-Bride's hair and makeup trial - from $60
+Bride's hair trial - from $60
 Bridesmaids and other guests - from $50
 
 
@@ -545,12 +525,11 @@ Text:
 Get in touch to discuss your wedding date, bridal party and the style you have in mind.
 
 Button:
-Enquire About Wedding Hair & Makeup
+Enquire About Wedding Hair
 
 
 Client Review Notes
 -------------------
-- Confirm whether she wants to spell it "makeup" or "make-up".
 - Confirm whether prices are still current.
 - Confirm whether she travels to wedding venues or appointments are salon-only.
 - Confirm how far ahead brides should book.
