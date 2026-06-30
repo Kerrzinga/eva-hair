@@ -224,7 +224,7 @@ Text:
 Book a haircut, restyle or finishing appointment tailored to your hair and the look you want.
 
 Services:
-Ladies haircut
+Ladies haircut (includes wash and blow dry)
 Men's haircut
 Children's haircut
 Style cut
@@ -280,13 +280,13 @@ Section note:
 Include prices only after the client confirms they are current. If prices are likely to change, keep the "from" wording.
 
 Hair Cuts & Styling:
-Ladies haircut - from $35
-Men's haircut - from $27
+Ladies haircut (includes wash and blow dry) - from $50
+Men's haircut - from $30
 Children's haircut - from $20
-Style cut - from $45
-Blow dry and irons - from $30
-Waves and curls - from $120
-Hair up - from $60
+Style cut - from $60
+Blow dry and irons - from $40
+Waves and curls - from $60
+Hair up - from $80
 
 Treatments & Extensions:
 Revitalising treatment - from $50
@@ -294,9 +294,9 @@ Hair extensions - from $200
 
 Hair Colouring:
 Full colour - from $100
-Roots only - from $90
-Highlights - from $60
-Colour or highlights - from $150
+Roots only - from $70
+Highlights - from $90
+Colour or highlights - from $120
 Tone - from $50
 
 
@@ -502,15 +502,15 @@ Section note:
 Only include these prices on the final site after the client confirms they are current. If unsure, use "from" pricing or remove prices and ask people to enquire.
 
 Wedding Hair:
-Bride's hair - from $80
-Bridesmaids' hair - from $60
-Flower girls' hair - from $40
-Guests - from $50
-Groom's haircut, ideally 3 days prior - from $30
+Bride's hair - from $110
+Bridesmaids' hair - from $90
+Flower girls' hair - from $70
+Guests - from $80
+Groom's haircut, ideally 3 days prior - from $60
 
 Wedding Trial:
-Bride's hair trial - from $60
-Bridesmaids and other guests - from $50
+Bride's hair trial - from $90
+Bridesmaids and other guests - from $80
 
 
 Call To Action
